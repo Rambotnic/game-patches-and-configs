@@ -66,6 +66,12 @@ To use these: right click the game > Properties > Launch Options
 ```
 <br/>
 
+- **DOOM 64**
+```
+-skipmovies
+```
+<br/>
+
 - **Half-Life** (and general GoldSrc Engine games)
 ```
 -novid -noforcemaccel -noforcemparms -noforcemspd -nojoy -width [MONITOR WIDTH] -height [MONITOR HEIGHT] -nomsaa -nofbo +gl_vsync 0 +fps_max [MONITOR REFRESH RATE] +fps_override 1 +rate 20000 +cl_cmdrate 106 +cl_updaterate 101
