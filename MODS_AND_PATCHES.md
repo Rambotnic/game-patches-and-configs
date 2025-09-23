@@ -113,6 +113,16 @@
 	</tr>
 </table>
 
+## Counter-Strike
+<table>
+	<tr>
+		<th>Bots</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/yapb/yapb/">YaPB - Yet another PODBot</a></td>
+	</tr>
+</table>
+
 ## Daikatana
 <table>
 	<tr>
