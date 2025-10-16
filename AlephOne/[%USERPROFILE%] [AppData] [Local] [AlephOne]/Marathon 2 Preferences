@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mara_prefs version="20240822">
-  <graphics scmode_width="1920" scmode_height="1080" scmode_auto_resolution="false" scmode_high_dpi="true" scmode_hud="true" scmode_hud_scale="2" scmode_term_scale="2" scmode_translucent_map="true" scmode_camera_bob="1" scmode_accel="1" scmode_highres="true" scmode_draw_every_other_line="false" scmode_fov="120" scmode_fullscreen="true" scmode_bitdepth="32" scmode_gamma="4" scmode_fix_h_not_v="true" ogl_flags="2697" software_alpha_blending="0" software_sdl_driver="0" fps_target="120" anisotropy_level="16" multisamples="0" wait_for_vsync="false" gamma_corrected_blending="false" use_npot="false" movie_export_video_quality="50" movie_export_video_bitrate="0" movie_export_audio_quality="50" scripted_effects_quality="4">
+<mara_prefs version="20250829">
+  <graphics scmode_width="1920" scmode_height="1080" scmode_auto_resolution="false" scmode_high_dpi="true" scmode_hud="true" scmode_hud_scale="2" scmode_term_scale="2" scmode_translucent_map="true" scmode_camera_bob="1" scmode_accel="1" scmode_highres="true" scmode_draw_every_other_line="false" scmode_fov="120" scmode_fullscreen="true" scmode_bitdepth="32" scmode_gamma="4" scmode_fix_h_not_v="true" ogl_flags="11161" software_alpha_blending="0" software_sdl_driver="0" fps_target="120" anisotropy_level="16" multisamples="0" wait_for_vsync="false" gamma_corrected_blending="false" use_npot="false" billboard_xy="false" movie_export_video_quality="50" movie_export_video_bitrate="0" movie_export_audio_quality="50" scripted_effects_quality="4">
     <void>
       <color red="0" green="0" blue="0"/>
     </void>
@@ -23,11 +23,11 @@
   </graphics>
   <player name="Rambotnic" color="7" team="7" last_time_ran="0" difficulty="3" bkgd_music="false" crosshairs_active="true" solo_profile="0">
     <chase_cam behind="1536" upward="0" rightward="0" flags="0" damping="0.5" spring="0" opacity="1"/>
-    <crosshairs thickness="2" from_center="3" length="4" shape="0" opacity="0.6875">
-      <color red="0" green="0.937514305" blue="0"/>
+    <crosshairs thickness="2" from_center="3" length="4" shape="0" opacity="0.699999988">
+      <color red="0" green="1" blue="0"/>
     </crosshairs>
   </player>
-  <input device="1" modifiers="49" sens_horizontal="1979" sens_vertical="2671" classic_vertical_aim="false" classic_aim_speed_limits="false" mouse_accel_type="0" mouse_accel_scale="1" raw_mouse_input="true" extra_mouse_precision="true" controller_analog="true" controller_aim_inverted="false" controller_sensitivity="65536" controller_deadzone="3276">
+  <input device="1" modifiers="49" sens_horizontal="2000" sens_vertical="2750" classic_vertical_aim="false" classic_aim_speed_limits="false" mouse_accel_type="0" mouse_accel_scale="1" raw_mouse_input="true" extra_mouse_precision="true" controller_analog="true" controller_aim_inverted="false" controller_sensitivity_horizontal="65536" controller_deadzone_horizontal="3276" controller_sensitivity_vertical="65536" controller_deadzone_vertical="3276">
     <binding action="forward" pressed="w"/>
     <binding action="forward" pressed="controller-ls-up"/>
     <binding action="back" pressed="s"/>
@@ -69,31 +69,26 @@
     <binding action="map-zoom-in" pressed="controller-up"/>
     <binding action="map-zoom-out" pressed="minus"/>
     <binding action="map-zoom-out" pressed="controller-down"/>
-    <binding action="fps" pressed="slash"/>
     <binding action="chat" pressed="grave"/>
     <binding action="net-stats" pressed="n"/>
     <binding action="hotkey-1" pressed="1"/>
     <binding action="hotkey-2" pressed="2"/>
-    <binding action="hotkey-3" pressed="4"/>
+    <binding action="hotkey-3" pressed="v"/>
     <binding action="hotkey-4" pressed="3"/>
     <binding action="hotkey-5" pressed="c"/>
     <binding action="hotkey-6" pressed="6"/>
     <binding action="hotkey-7" pressed="x"/>
     <binding action="hotkey-8" pressed="q"/>
     <binding action="hotkey-9" pressed="t"/>
-    <binding action="hotkey-11" pressed="g"/>
-    <binding action="hotkey-12" pressed="b"/>
   </input>
   <sound volume_db="0" music_db="-3" flags="250" rate="44100" samples="1024" video_export_volume_db="-8" channel="2"/>
-  <network untimed="false" type="3" game_type="0" difficulty="2" game_options="1423" time_limit="18000" kill_limit="10" entry_point="0" autogather="false" join_by_address="false" join_address="" local_game_port="4226" game_protocol="star" use_netscript="false" netscript_file="" cheat_flags="39" advertise_on_metaserver="false" attempt_upnp="false" use_remote_hub="true" check_for_updates="true" verify_https="false" metaserver_login="guest" metaserver_password="72657665726f66206e6f68746172616d" use_custom_metaserver_colors="false" mute_metaserver_guests="false" join_metaserver_by_default="false" allow_stats="false">
-    <color index="0" red="0.140627146" green="0.371099412" blue="0.636728466"/>
+  <network untimed="true" type="3" game_type="1" difficulty="4" game_options="1311" time_limit="18000" kill_limit="10" entry_point="0" autogather="false" join_by_address="false" join_address="" local_game_port="4226" game_protocol="star" use_netscript="false" netscript_file="$default$/Scripts/Cheats.lua" cheat_flags="39" advertise_on_metaserver="true" attempt_upnp="false" use_remote_hub="true" check_for_updates="true" verify_https="false" metaserver_login="" metaserver_password="72252e09070c0753405c59445272616d" use_custom_metaserver_colors="true" mute_metaserver_guests="false" join_metaserver_by_default="false" allow_stats="false">
+    <color index="0" red="0" green="0.937514305" blue="0"/>
     <color index="1" red="0.140627146" green="0.371099412" blue="0.636728466"/>
     <star_protocol>
       <hub pregame_ticks_before_net_death="600" ingame_ticks_before_net_death="150" pregame_window_size="15" ingame_window_size="150" pregame_nth_element="2" ingame_nth_element="5" send_period="1" recovery_send_period="15" latency_tolerance="5" use_bandwidth_reduction="true"/>
       <spoke pregame_ticks_before_net_death="2700" ingame_ticks_before_net_death="150" recovery_send_period="15" timing_window_size="90" timing_nth_element="45" adjust_timing="true"/>
     </star_protocol>
   </network>
-  <environment map_file="$default$\Map.sceA" physics_file="$default$\Physics Models\Standard.phyA" shapes_file="$default$\Shapes.shpA" sounds_file="$default$\Sounds.sndA" resources_file="$local$\Marathon.appl" map_checksum="762432692" physics_checksum="525520953" shapes_mod_date="1720875536" sounds_mod_date="1720875536" group_by_directory="true" reduce_singletons="false" smooth_text="true" solo_lua_file="$default$\Scripts\Cheats.lua" use_solo_lua="true" use_replay_net_lua="false" hide_alephone_extensions="true" film_profile="1" maximum_quick_saves="500" use_native_file_dialogs="false" auto_play_demos="true">
-    <disable_plugin path="$default$\Plugins\Transparent Liquids"/>
-  </environment>
+  <environment map_file="$default$\Map.sceA" physics_file="$default$\Physics Models\Standard.phyA" shapes_file="$default$\Shapes.shpA" sounds_file="$default$\Sounds.sndA" resources_file="$local$\Marathon.appl" map_checksum="2819527857" physics_checksum="525520953" shapes_mod_date="1728439329" sounds_mod_date="1720875536" group_by_directory="true" reduce_singletons="false" smooth_text="true" solo_lua_file="$default$\Scripts\Cheats.lua" use_solo_lua="true" use_replay_net_lua="false" hide_alephone_extensions="true" film_profile="1" maximum_quick_saves="500" use_native_file_dialogs="false" auto_play_demos="true"/>
 </mara_prefs>
