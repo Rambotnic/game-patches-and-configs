@@ -46,7 +46,6 @@
 		<td>
 			<ul>
 				<li><a href="https://www.patreon.com/posts/99970979">Reboot Team's ACC Track Conversions</a></li>
-				<li><a href="https://www.mediafire.com/file/75ggmxpegejnzg0/canada_2021+-+FINAL.zip/file">Circuit Gilles Villeneuve</a></li>
 				<li><a href="https://shutokorevivalproject.com/">Shutoko Revival Project</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/la-canyons.15067/">LA Canyons</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/2-way-traffic-layout-for-la-canyons.28774/">LA Canyons Two-Way Traffic Layout</a></li>
