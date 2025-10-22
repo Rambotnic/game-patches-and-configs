@@ -175,6 +175,16 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 	</tr>
 </table>
 
+## F.E.A.R. (incl. Extraction Point and Perseus Mandate)
+<table>
+	<tr>
+		<th>Patches</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/Wemino/EchoPatch/">EchoPatch</a></td>
+	</tr>
+</table>
+
 ## Half-Life
 <table>
 	<tr>
