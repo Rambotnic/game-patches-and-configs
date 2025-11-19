@@ -25,13 +25,14 @@
 		<td>
 			<ul>
 				<li><a href="https://www.racedepartment.com/downloads/redbull-x2010.8443/">RedBull X2010</a></li>
+				<li><a href="https://www.ktm.com/en-int/X-BOW/e-sports---gaming.html">KTM X-Bow GT4</a></li>
 				<li><a href="https://racesimstudio.sellfy.store/p/rss-2010/">Formula RSS 2010 V8</a></li>
 				<li><a href="https://racesimstudio.sellfy.store/p/formula-rss-2013/">Formula RSS 2013 V8</a></li>
+				<li><a href="https://store.racesimstudio.com/p/gt-pack/">RSS GT Legends Championship Pack</a></li>
 				<li><a href="https://racesimstudio.sellfy.store/p/rss-gt-m/">RSS GT-M Championship - Phase 1</a></li>
 				<li><a href="https://store.racesimstudio.com/p/gt-m-championship-phase-2/">RSS GT-M Championship - Phase 2</a></li>
 				<li><a href="https://racesimstudio.sellfy.store/p/p91-evo/">RSS Protech P91 Hybrid Evo</a></li>
-				<li><a href="https://racesimstudio.sellfy.store/p/mph-p96/">RSS MP-H Protech P96 V8</a></li>
-				<li><a href="https://racesimstudio.sellfy.store/p/mph-bayer-v8/">RSS MP-H Bayer Hybrid V8</a></li>
+				<li><a href="https://store.racesimstudio.com/p/mph-phase-1-pack/">RSS MP-H Pack 1</a></li>
 				<li><a href="https://assettocorsamods.io/cars/street/aston_martin_db111/">Aston Martin DB11</a></li>
 				<li><a href="https://unitedracingdesign.sellfy.store/p/ac-bayro-4-gt3/">URD Bayro 4 GT3</a></li>
 				<li><a href="https://www.virtual-racing-cars.com/p/ac-vrc-prototype-h-pack-one/">VRC Prototype H Pack One</a></li>
@@ -40,6 +41,7 @@
 				<li><a href="https://www.virtual-racing-cars.com/p/ac-formula-lithium-2023/">VRC Formula Lithium 2023</a></li>
 				<li><a href="https://www.virtual-racing-cars.com/p/formula-alpha-2007-ferrenzo-f07/">VRC Formula Alpha 2007 Ferrenzo F07</a></li>
 				<li><a href="https://www.virtual-racing-cars.com/p/formula-alpha-2007-mclenna-mc22/">VRC Formula Alpha 2007 McLenna MC22</a></li>
+				<li><a href="https://www.virtual-racing-cars.com/p/ac-formula-beta-2008/">VRC Formula Beta 2008</a></li>
 			</ul>
 		</td>
 		<!-- Tracks -->
@@ -56,6 +58,7 @@
 		<!-- Misc -->
 		<td>
 			<ul>
+				<li><a href="https://assettoserver.org/">AssettoServer</a></li>
 				<li><a href="https://www.overtake.gg/downloads/acc-hud-simhub.60807/">Assetto Corsa Competizione HUD for SimHub</a></li>
 				<li><a href="https://www.overtake.gg/downloads/c13-aegis-post-processing-filter.59979/">C13 AEGIS PP Filter</a></li>
 				<li><a href="https://www.patreon.com/peterboese">Pure</a></li>
