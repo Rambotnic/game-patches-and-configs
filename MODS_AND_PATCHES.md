@@ -1,3 +1,13 @@
+## Alice: Madness Returns
+<table>
+	<tr>
+		<th>Patches</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/Wemino/MadnessPatch">MadnessPatch</a></td>
+	</tr>
+</table>
+
 ## Assetto Corsa
 <table>
 	<tr>
