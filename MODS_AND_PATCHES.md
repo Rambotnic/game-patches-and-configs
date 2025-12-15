@@ -23,6 +23,10 @@
 				<li><a href="https://acstuff.club/app/">Content Manager</a></li>
 				<li><a href="https://acstuff.club/patch/">Custom Shaders Patch</a></li>
 				<li><a href="https://www.overtake.gg/downloads/cmrt-essential-hud.69475/">CMRT Essential HUD</a></li>
+				<li><a href="https://www.overtake.gg/downloads/hud-evolution-ac-evo-custom-huds.74595/">Hud Evolution</a></li>
+				<li><a href="https://www.overtake.gg/downloads/iracingdeltabarhud.69246/">iRacing Delta Bar HUD</a></li>
+				<li><a href="https://www.overtake.gg/downloads/ac-sectors.74051/">AC Sectors</a></li>
+				<li><a href="https://www.overtake.gg/downloads/damage-displayer-by-syriker.52073/">Damage Displayer</a></li>
 				<li><a href="https://www.overtake.gg/downloads/iclicker-audible-indicator-clicks-and-more.52664/">iClicker</a></li>
 				<li><a href="https://www.simhubdash.com/">SimHub</a></li>
 				<li><a href="https://thecrewchief.org/">Crew Chief</a></li>
