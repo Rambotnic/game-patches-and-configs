@@ -1,0 +1,67 @@
+{
+  "controlScheme": "Keyboard & Mouse",
+  "modifiedActions": {
+    "Punch": [],
+    "Change Fist": [],
+    "Punch (Feedbacker)": [
+      {
+        "path": "<Keyboard>/f"
+      }
+    ],
+    "Punch (Knuckleblaster)": [
+      {
+        "path": "<Mouse>/backButton"
+      }
+    ],
+    "Hook": [
+      {
+        "path": "<Mouse>/forwardButton"
+      }
+    ],
+    "Previous Variation": [
+      {
+        "path": "<Keyboard>/v"
+      }
+    ],
+    "Nailgun": [
+      {
+        "path": "<Keyboard>/c"
+      }
+    ],
+    "Railcannon": [
+      {
+        "path": "<Keyboard>/r"
+      }
+    ],
+    "Rocket Launcher": [
+      {
+        "path": "<Keyboard>/q"
+      }
+    ],
+    "Spawner Arm": [
+      {
+        "path": "<Keyboard>/g"
+      }
+    ],
+    "Last Used Weapon": [
+      {
+        "path": "<Keyboard>/z"
+      }
+    ],
+    "Variation Slot 1": [
+      {
+        "path": "<Keyboard>/3"
+      }
+    ],
+    "Variation Slot 2": [
+      {
+        "path": "<Keyboard>/4"
+      }
+    ],
+    "Variation Slot 3": [
+      {
+        "path": "<Keyboard>/5"
+      }
+    ]
+  }
+}
