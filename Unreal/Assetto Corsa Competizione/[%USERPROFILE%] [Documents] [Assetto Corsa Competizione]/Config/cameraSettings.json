@@ -1,0 +1,1624 @@
+{
+    "version": 3,
+    "lastUsedCamIndex": 5,
+    "lastUsedOnboardIndex": 0,
+    "generalMovement": 1,
+    "onboardMovement": 1,
+    "dashcamFactor": 0,
+    "panniniProjection": 0,
+    "helicamDistance": 3000,
+    "helicamFOV": 60,
+    "helicamTargetMoreCars": 1,
+    "helicamTargetCarsMaxDist": 2000,
+    "helicamTargetInterpTime": 1,
+    "helicamDebug": 0,
+    "cameraFOV": [54, 54, 54, 54, 60, 60, 54],
+    "mapCarCameraData": {
+        "lamborghini_huracan_gt3_evo": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "porsche_991ii_gt3_r": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 3.0999991893768311, 5.0999975204467773, 0]
+        },
+        "ferrari_488_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -26,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 9,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 4,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 9,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "mercedes_amg_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -29,
+                    "y": 0,
+                    "z": 10
+                },
+                {
+                    "x": 6,
+                    "y": 0,
+                    "z": -1
+                },
+                {
+                    "x": 11.999996185302734,
+                    "y": 0,
+                    "z": -0.99999964237213135
+                },
+                {
+                    "x": 6,
+                    "y": 0,
+                    "z": -1
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "amr_v8_vantage_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 8.9999980926513672,
+                    "y": 0,
+                    "z": 1.5000002384185791
+                },
+                {
+                    "x": -0.79999995231628418,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 5.0999975204467773, 0]
+        },
+        "audi_r8_lms_evo": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 5,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 5,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "lexus_rc_f_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "lamborghini_huracan_st": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 2.9999992847442627,
+                    "y": 0,
+                    "z": 0.60000002384185791
+                },
+                {
+                    "x": -1.0000001192092896,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 6.0999965667724609, 0]
+        },
+        "porsche_991_gt3_r": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -9,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 7,
+                    "y": 0,
+                    "z": 1
+                },
+                {
+                    "x": 10,
+                    "y": -0.5,
+                    "z": 0
+                },
+                {
+                    "x": 7,
+                    "y": 0,
+                    "z": 1
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "mclaren_720s_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 3.4999988079071045,
+                    "y": 0,
+                    "z": -1.0000001192092896
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 1.5000001192092896, 0, 0]
+        },
+        "bmw_m6_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": -1
+                },
+                {
+                    "x": -3,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": -1
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "bentley_continental_gt3_2018": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1.4901161193847656e-8,
+                    "y": 0,
+                    "z": -1.5000002384185791
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 4.0999984741210938, 5.0999975204467773, 0]
+        },
+        "ford_mustang_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "mclaren_720s_gt3_evo": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 2.9999992847442627,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -4.999997615814209,
+                    "y": 0,
+                    "z": 1.0000001192092896
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 6.0999965667724609, 0]
+        },
+        "lamborghini_gallardo_rex": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -9.4999790191650391,
+                    "y": 0,
+                    "z": -0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "jaguar_g3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 2
+                },
+                {
+                    "x": 2.4999997615814209,
+                    "y": 0,
+                    "z": 2.0000002384185791
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 2
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "ferrari_296_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -26,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 9,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 4.4999995231628418,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 8.4999980926513672,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 2.0000002384185791, 5.5999970436096191, 0]
+        },
+        "mclaren_650s_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 12,
+                    "y": 0,
+                    "z": 1
+                },
+                {
+                    "x": 7.999992847442627,
+                    "y": 2,
+                    "z": -0.5
+                },
+                {
+                    "x": 3.9999890327453613,
+                    "y": 0,
+                    "z": 0.49999991059303284
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0.5, 7.0999956130981445, 0]
+        },
+        "porsche_992_gt3_r": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0.5,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 4.5999979972839355, 5.0999975204467773, 0]
+        },
+        "bmw_m4_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 2.9999992847442627,
+                    "y": 0,
+                    "z": 1.0000001192092896
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "chevrolet_camaro_gt4r": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 3.4999988079071045,
+                    "y": 0,
+                    "z": 1.5000002384185791
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 1.5000002384185791
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 4.0999984741210938, 3.0999991893768311, 0]
+        },
+        "maserati_mc_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 1.0000001192092896
+                },
+                {
+                    "x": -1.0000001192092896,
+                    "y": -1.4901161193847656e-8,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 9.0999984741210938, 0]
+        },
+        "bmw_m4_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "amr_v8_vantage_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "mclaren_570s_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -2.0000002384185791,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 1, 6.0999965667724609, 0]
+        },
+        "porsche_718_cayman_gt4_mr": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 4.0999984741210938, 0]
+        },
+        "mercedes_amg_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "ginetta_g55_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 3.599998950958252, 4.0999984741210938, 0]
+        },
+        "ktm_xbow_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -1.0000001192092896,
+                    "y": 0,
+                    "z": 0.5
+                },
+                {
+                    "x": -2.9999992847442627,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 4.5999979972839355, 8.0999946594238281, 0]
+        },
+        "alpine_a110_gt4": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 2.4999997615814209,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "porsche_935": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 2
+                },
+                {
+                    "x": 7,
+                    "y": 0,
+                    "z": 1
+                },
+                {
+                    "x": 11,
+                    "y": 0,
+                    "z": 1
+                },
+                {
+                    "x": 5.0000019073486328,
+                    "y": 0,
+                    "z": -7.4505805969238281e-8
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 5.0999975204467773, 0]
+        },
+        "ktm_xbow_gt2": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -2.0000002384185791
+                },
+                {
+                    "x": -1.5000002384185791,
+                    "y": 0,
+                    "z": -2.0000002384185791
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 4.0999984741210938, 5.0999975204467773, 0]
+        },
+        "maserati_mc20_gt2": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 4.999997615814209,
+                    "y": 0,
+                    "z": 1.0000001192092896
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": -2.9999992847442627
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 1.5000005960464478, 7.5999951362609863, 0]
+        },
+        "amr_v12_vantage_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": -6.9999957084655762,
+                    "y": 0,
+                    "z": 1.0000001192092896
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 6.0999965667724609, 0]
+        },
+        "audi_r8_lms": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 1,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 5,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 5,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        },
+        "lamborghini_huracan_gt3": {
+            "cockpitVisMode": 0,
+            "dashInHud": false,
+            "dashInHudWidthLimit": true,
+            "dashOpacity": 1,
+            "offsets": [
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 0
+                },
+                {
+                    "x": 1,
+                    "y": 0,
+                    "z": 3
+                },
+                {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            ],
+            "pitches": [0, 0, 0, 0, 0, 0, 0]
+        }
+    },
+    "lookWithSteerGain": 0,
+    "lookWithSteerGamma": 0.5,
+    "lookWithSteerSmoothing": 0.5,
+    "lookAroundSpeed": 15,
+    "horizonLock": 0,
+    "enableTrackIR": 1,
+    "tripleWidth": 500,
+    "tripleDistance": 500,
+    "tripleAngle": 0,
+    "tripleBezel": 0,
+    "hDRExposure": 0.75,
+    "hDRContrast": 0.7,
+    "mirrorFOV": 90,
+    "useGamepadForFreeCamera": 0,
+    "virtualMirrorSize": 0.15,
+    "virtualMirrorVerticalOffset": 0,
+    "virtualMirrorHorizontalOffset": 1,
+    "tVCamFocusedAperture": 2.8,
+    "tVCamStaticAperture": 16,
+    "tVCamStaticFocusDistance": 100000,
+    "tVCamConstrainAspectRatio": 0,
+    "freeCamDOFEnabled": 0
+}
