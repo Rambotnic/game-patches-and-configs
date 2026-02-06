@@ -33,6 +33,7 @@
 				<li><a href="https://www.overtake.gg/downloads/extended-controls.67824/">Extended Controls</a></li>
 				<li><a href="https://www.overtake.gg/downloads/comfy-map.52623/">Comfy Map</a></li>
 				<li><a href="https://www.overtake.gg/downloads/lut-generator-for-ac.9740/">LUT Generator and Wheel Check</a></li>
+				<li><a href="https://www.overtake.gg/downloads/ffb-anti-clip.65648/">FFB Anti-Clip</a></li>
 			</ul>
 		</td>
 		<!-- Cars -->
@@ -75,6 +76,7 @@
 				<li><a href="https://assettoserver.org/">AssettoServer</a></li>
 				<li><a href="https://www.overtake.gg/downloads/acc-hud-simhub.60807/">Assetto Corsa Competizione HUD for SimHub</a></li>
 				<li><a href="https://www.overtake.gg/downloads/c13-aegis-post-processing-filter.59979/">C13 AEGIS PP Filter</a></li>
+				<li><a href="https://www.overtake.gg/downloads/natural-mod-pp-filter.4551/">Natural Mod PP Filter</a></li>
 				<li><a href="https://www.patreon.com/peterboese">Pure</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879">New AI + Track Fixing mega pack</a></li>
 				<li><a href="https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-1.7226/">Fonsecker Sound Pack Part 1</a></li>
