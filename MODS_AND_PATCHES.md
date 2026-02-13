@@ -387,7 +387,7 @@ To make music work with Ironwail, simply go into the game's/mod's folder and cre
 	<tr>
 		<td>
 			<ul>
-				<li><a href="https://github.com/OldUnreal/UnrealTournamentPatches">OldUnreal patch</a></li>
+				<li><a href="https://github.com/OldUnreal/UnrealTournamentPatches">OldUnreal Patch</a></li>
 				<li><a href="https://github.com/alexstrout/foxWSFix-UT99">Widescreen support</a></li>
 				<li><a href="http://kentie.net/article/d3d10drv/">Direct3D 10 renderer</a></li>
 			</ul>
@@ -403,8 +403,7 @@ To make music work with Ironwail, simply go into the game's/mod's folder and cre
 	<tr>
 		<td>
 			<ul>
-				<li><a href="https://www.moddb.com/games/unreal-tournament-2004/downloads/ut2004-community-patch-2023">UT2004 Community Patch</a></li>
-				<li><a href="https://github.com/crosire/d3d8to9">Direct3D 8 to Direct3D 9 Wrapper</a></li>
+				<li><a href="https://github.com/OldUnreal/UT2004Patches">OldUnreal Patch</a></li>
 			</ul>
 		</td>
 	</tr>
