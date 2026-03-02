@@ -28,7 +28,7 @@
 <details>
 <summary><h3>Cars</h3></summary>
 
-- [RedBull X2010](https://www.racedepartment.com/downloads/redbull-x2010.8443/)
+- [RedBull X2010](https://www.overtake.gg/downloads/redbull-x2010.8443/)
 - [KTM X-Bow GT4](https://cdn.esport-simracing.com/content/cars/ks_ktm_xbow_gt4.zip)
 - [Hyundai Elantra N TCR](https://www.patreon.com/posts/hyundai-elantra-114798224)
 - [Formula RSS 2010 V8](https://store.racesimstudio.com/p/formula-rss-2010/)
@@ -58,9 +58,9 @@
 
 - [Reboot Team's Tracks](https://www.patreon.com/posts/99970979) <span style="color: red;">*</span>
 - [Shutoko Revival Project](https://shutokorevivalproject.com/)
-- [LA Canyons](https://www.racedepartment.com/downloads/la-canyons.15067/)
-- [LA Canyons Two-Way Traffic Layout](https://www.racedepartment.com/downloads/2-way-traffic-layout-for-la-canyons.28774/)
-- [Circuit de la Sarthe (Le Mans 24H)](https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/)
+- [LA Canyons](https://www.overtake.gg/downloads/la-canyons.15067/)
+- [LA Canyons Two-Way Traffic Layout](https://www.overtake.gg/downloads/2-way-traffic-layout-for-la-canyons.28774/)
+- [Circuit de la Sarthe (Le Mans 24H)](https://www.overtake.gg/downloads/circuit-24h-lemans.2482/)
 - [pyyer's Track Extensions](https://www.patreon.com/pyyer)
 
 <span style="color: red;">*</span> Specific tracks that I like are:
@@ -82,14 +82,14 @@
 - [C13 AEGIS PP Filter](https://www.overtake.gg/downloads/c13-aegis-post-processing-filter.59979/)
 - [Natural Mod PP Filter](https://www.overtake.gg/downloads/natural-mod-pp-filter.4551/)
 - [Pure](https://www.patreon.com/peterboese)
-- [New AI + Track Fixing mega pack](https://www.racedepartment.com/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879)
-- [Fonsecker Sound Pack Part 1](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-1.7226/)
-- [Fonsecker Sound Pack Part 2](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-2.10230/)
-- [Fonsecker Sound Pack Part 3](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-3.12240/)
-- [Fonsecker Sound Pack Part 4 (Porsche Pack)](https://www.racedepartment.com/downloads/fonsecker-sound-pack-part-4-porsche-pack.13468/)
-- [ACC Curbs and Surface sounds for AC](https://www.racedepartment.com/downloads/acc-curbs-and-surface-sounds-for-ac.61378/)
-- [Formula RSS 2013 V8 Community Skin Pack](https://www.racedepartment.com/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
-- [Nyanborghini Purracan Skin](https://www.racedepartment.com/downloads/nyanborghini-purracan.28258/)
+- [New AI + Track Fixing mega pack](https://www.overtake.gg/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879)
+- [Fonsecker Sound Pack Part 1](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-1.7226/)
+- [Fonsecker Sound Pack Part 2](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-2.10230/)
+- [Fonsecker Sound Pack Part 3](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-3.12240/)
+- [Fonsecker Sound Pack Part 4 (Porsche Pack)](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-4-porsche-pack.13468/)
+- [ACC Curbs and Surface sounds for AC](https://www.overtake.gg/downloads/acc-curbs-and-surface-sounds-for-ac.61378/)
+- [Formula RSS 2013 V8 Community Skin Pack](https://www.overtake.gg/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
+- [Nyanborghini Purracan Skin](https://www.overtake.gg/downloads/nyanborghini-purracan.28258/)
 - [shadow118's F1 Liveries and Resources](https://www.overtake.gg/members/shadow118.231192/#resources)
 
 </details>
