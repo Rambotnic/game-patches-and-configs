@@ -29,7 +29,7 @@
 <summary><h3>Cars</h3></summary>
 
 - [RedBull X2010](https://www.racedepartment.com/downloads/redbull-x2010.8443/)
-- [KTM X-Bow GT4](https://www.ktm.com/en-int/X-BOW/e-sports---gaming.html)
+- [KTM X-Bow GT4](https://cdn.esport-simracing.com/content/cars/ks_ktm_xbow_gt4.zip)
 - [Hyundai Elantra N TCR](https://www.patreon.com/posts/hyundai-elantra-114798224)
 - [Formula RSS 2010 V8](https://store.racesimstudio.com/p/formula-rss-2010/)
 - [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
