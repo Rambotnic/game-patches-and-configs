@@ -169,7 +169,6 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 ### Source Port
 - [Xash 3D FWGS](https://github.com/FWGS/xash3d-fwgs)
 
-### Mods
 <details>
 <summary><h3>Mods</h3></summary>
 
@@ -203,7 +202,6 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 ### Patches
 - [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
 
-### Mods
 <details>
 <summary><h3>Mods</h3></summary>
 
@@ -232,7 +230,6 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 ### Source Port
 - [Ironwail](https://github.com/andrei-drexler/ironwail)
 
-### Mods
 <details>
 <summary><h3>Mods</h3></summary>
 
