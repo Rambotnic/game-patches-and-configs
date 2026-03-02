@@ -1,12 +1,12 @@
 # Alice: Madness Returns
-### Patches
+**Patches**
 - [MadnessPatch](https://github.com/Wemino/MadnessPatch)
 
 ---
 
 # Assetto Corsa
 <details>
-<summary><h3>Apps</h3></summary>
+<summary><b>Apps</b></summary>
 
 - [Content Manager](https://acstuff.club/app/)
 - [Custom Shaders Patch](https://acstuff.club/patch/)
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary><h3>Cars</h3></summary>
+<summary><b>Cars</b></summary>
 
 - [RedBull X2010](https://www.overtake.gg/downloads/redbull-x2010.8443/)
 - [KTM X-Bow GT4](https://cdn.esport-simracing.com/content/cars/ks_ktm_xbow_gt4.zip)
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary><h3>Tracks</h3></summary>
+<summary><b>Tracks</b></summary>
 
 - [Reboot Team's Tracks](https://www.patreon.com/posts/99970979) <span style="color: red;">*</span>
 - [Shutoko Revival Project](https://shutokorevivalproject.com/)
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary><h3>Misc</h3></summary>
+<summary><b>Misc</b></summary>
 
 - [AssettoServer](https://assettoserver.org/)
 - [Assetto Corsa Competizione HUD for SimHub](https://www.overtake.gg/downloads/acc-hud-simhub.60807/)
@@ -97,47 +97,47 @@
 ---
 
 # Blood: Fresh Supply
-### Source Port
+**Source Port**
 - [NotBlood](https://github.com/clipmove/NotBlood)
 
-### Mods
+**Mods**
 - [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)
 - [Voxel Pack](https://github.com/fgsfds/Blood-Voxel-Pack)
 
 ---
 
 # Classic Marathon 2
-### Mods
+**Mods**
 - [Feel The Noise - Fan Soundtrack by Talashar](https://steamcommunity.com/sharedfiles/filedetails/?id=3332007811)
 
 ---
 
 # Classic Marathon Infinity
-### Mods
+**Mods**
 - [Strange Aeons - Fan Soundtrack by Talashar](https://steamcommunity.com/sharedfiles/filedetails/?id=3310109344)
 
 ---
 
 # Counter-Strike
-### Bots
+**Bots**
 - [YaPB - Yet another PODBot](https://github.com/yapb/yapb/)
 
 ---
 
 # Daikatana
-### Patches
+**Patches**
 - [Unofficial 1.3 Patch](https://github.com/maraakate/daikatana/)
 
 ---
 
 # Day of Defeat
-### Bots
+**Bots**
 - [Sturmbot](https://sturmbot.org/)
 
 ---
 
 # Deathmatch Classic
-### Bots
+**Bots**
 - [Parabot](https://github.com/nekonomicon/Parabot/)
 
 ---
@@ -148,29 +148,29 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 ---
 
 # DOOM 3
-### Source Port
+**Source Port**
 - [dhewm 3](https://github.com/dhewm/dhewm3)
 
 ---
 
 # Duke Nukem 3D
-### Source Port
+**Source Port**
 - [EDuke32](https://www.eduke32.com/)
 
 ---
 
 # F.E.A.R. (incl. Extraction Point and Perseus Mandate)
-### Patches
+**Patches**
 - [EchoPatch](https://github.com/Wemino/EchoPatch)
 
 ---
 
 # Half-Life
-### Source Port
+**Source Port**
 - [Xash 3D FWGS](https://github.com/FWGS/xash3d-fwgs)
 
 <details>
-<summary><h3>Mods</h3></summary>
+<summary><b>Mods</b></summary>
 
 - [Azure Sheep](https://www.moddb.com/mods/azure-sheep)
 - [Brutal Half-Life](https://www.moddb.com/mods/brutal-half-life)
@@ -190,7 +190,7 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 
 </details>
 
-### Bots
+**Bots**
 - [Parabot](https://github.com/nekonomicon/Parabot/)
 
 > [!NOTE]
@@ -199,11 +199,11 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 ---
 
 # Half-Life 2
-### Patches
+**Patches**
 - [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
 
 <details>
-<summary><h3>Mods</h3></summary>
+<summary><b>Mods</b></summary>
 
 - [Entropy: Zero](https://store.steampowered.com/app/714070/Entropy__Zero/)
 - [Entropy: Zero 2](https://store.steampowered.com/app/1583720/Entropy__Zero_2/)
@@ -219,7 +219,7 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 ---
 
 # Painkiller: Black Edition
-### Patches
+**Patches**
 - [Ultimate Community Patch RC3](https://steamcommunity.com/sharedfiles/filedetails/?id=1789104850)
 
 In case the above link doesn't work, try [this one](https://drive.google.com/drive/u/0/folders/1cGoS4fiQLHw3v-EVVFcIoEDOb27SQgu6)
@@ -227,11 +227,11 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 ---
 
 # Quake
-### Source Port
+**Source Port**
 - [Ironwail](https://github.com/andrei-drexler/ironwail)
 
 <details>
-<summary><h3>Mods</h3></summary>
+<summary><b>Mods</b></summary>
 
 - [Arcane Dimensions](https://www.moddb.com/mods/arcane-dimensions)
 - [Alkaline](https://www.quaddicted.com/reviews/alkaline.html)
@@ -244,7 +244,7 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 
 </details>
 
-### Bots
+**Bots**
 - [Rogue Bot](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/rbot.zip) <span style="color: red;">*</span>
 
 <span style="color: red;">*</span> Quake Bot Archive: https://github.com/Jason2Brownlee/QuakeBotArchive
@@ -255,61 +255,61 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 ---
 
 # Quake 2
-### Source Port
+**Source Port**
 - [Yamagi Quake II](https://www.yamagi.org/quake2/)
 
-### Mods
+**Mods**
 - [AQtion](https://store.steampowered.com/app/1978800/AQtion/)
 
-### Bots
+**Bots**
 - [Gladiator Bot](https://mrelusive.com/oldprojects/gladiator/download.shtml.htm)
 
 ---
 
 # Quake 4
-### Patches
+**Patches**
 - [Quake 4 Tweaker](https://community.pcgamingwiki.com/files/file/1009-quake-4-tweaker/)
 
 ---
 
 # Return to Castle Wolfenstein
-### Source Port
+**Source Port**
 - [iortcw](https://github.com/iortcw/iortcw)
 
-### Mods
+**Mods**
 - [RealRTCW](https://store.steampowered.com/app/1379630/RealRTCW/)
 
 ---
 
 # Shadow Warrior Classic
-### Source Port
+**Source Port**
 - [Raze](https://raze.zdoom.org/about)
 
 ---
 
 # SiN Gold
-### Source Port
+**Source Port**
 - [Dominatrix](https://github.com/rohit-n/dominatrix)
 
 ---
 
 # Team Fortress Classic
-### Bots
+**Bots**
 - [FoxBot](https://github.com/APGRoboCop/foxbot)
 
 ---
 
 # Unreal Gold
-### Patches
+**Patches**
 - [OldUnreal 227 patch](https://www.oldunreal.com/downloads/unreal/)
 
-### Mods
+**Mods**
 - [The One](https://www.oldunreal.com/phpBB3/viewtopic.php?p=101445#p101445)
 
 ---
 
 # Unreal Tournament
-### Patches
+**Patches**
 - [OldUnreal Patch](https://github.com/OldUnreal/UnrealTournamentPatches)
 - [Widescreen support](https://github.com/alexstrout/foxWSFix-UT99)
 - [Direct3D 10 renderer](http://kentie.net/article/d3d10drv/)
@@ -317,5 +317,5 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 ---
 
 # Unreal Tournament 2004
-### Patches
+**Patches**
 - [OldUnreal Patch](https://github.com/OldUnreal/UT2004Patches)
