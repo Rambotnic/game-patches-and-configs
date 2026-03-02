@@ -236,12 +236,14 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 <details>
 <summary><h3>Mods</h3></summary>
 
+- [Arcane Dimensions](https://www.moddb.com/mods/arcane-dimensions)
 - [Alkaline](https://www.quaddicted.com/reviews/alkaline.html)
 - [Dimension of the Past](https://www.quaddicted.com/reviews/dopa.html)
 - [Dwell - Episode One & Two](https://www.moddb.com/mods/dwell)
 - [Slayer's Testament](https://www.moddb.com/mods/slayers-testament)
 - [Copper](http://lunaran.com/copper/)
 - [Underdark Overbright](https://www.quaddicted.com/reviews/udob_v1_1.html)
+- [Brutalist Jam III](https://www.slipseer.com/index.php?resources/quake-brutalist-jam-iii.549/)
 
 </details>
 
