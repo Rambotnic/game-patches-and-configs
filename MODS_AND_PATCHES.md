@@ -65,6 +65,15 @@
 
 </details>
 
+<span style="color: red;">*</span> Specific tracks that I like are:
+- Every ACC conversion listed (Suzuka, Misano, Bathurst, Zolder and Oulton Park)
+- Sebring Raceway
+- Hungaroring
+- Macau Grand Prix
+- Mont Tremblant
+- Fuji Speedway
+- Bannochbrae
+
 <details>
 <summary><h3>Misc</h3></summary>
 
