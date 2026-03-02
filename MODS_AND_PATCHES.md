@@ -63,8 +63,6 @@
 - [Circuit de la Sarthe (Le Mans 24H)](https://www.racedepartment.com/downloads/circuit-24h-lemans.2482/)
 - [pyyer's Track Extensions](https://www.patreon.com/pyyer)
 
-</details>
-
 <span style="color: red;">*</span> Specific tracks that I like are:
 - Every ACC conversion listed (Suzuka, Misano, Bathurst, Zolder and Oulton Park)
 - Sebring Raceway
@@ -73,6 +71,8 @@
 - Mont Tremblant
 - Fuji Speedway
 - Bannochbrae
+
+</details>
 
 <details>
 <summary><h3>Misc</h3></summary>
