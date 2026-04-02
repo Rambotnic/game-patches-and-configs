@@ -122,6 +122,15 @@
 **Bots**
 - [YaPB - Yet another PODBot](https://github.com/yapb/yapb/)
 
+<details>
+<summary><b>Mods</b></summary>
+
+- [Fixed P & W Models Pack](https://gamebanana.com/mods/360923)
+- [CS 1.6 Weapons - CS:GO Style - Anniversary Fix](https://gamebanana.com/mods/563061)
+- [CS 1.6 -> 1.5 Transformation Pack](https://gamebanana.com/mods/225900)
+
+</details>
+
 ---
 
 # Daikatana
