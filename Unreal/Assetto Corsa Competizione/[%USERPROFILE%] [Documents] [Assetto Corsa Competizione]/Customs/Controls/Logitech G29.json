@@ -7,31 +7,6 @@
 	"commandDevices": [
 		{
 			"version": 0,
-			"productName": "Maple",
-			"productId": "2367151-0-0-00807368867368",
-			"instanceGuid": "{95DC5810-C0B3-11F0-8001-444553540000}",
-			"steeringWheelModel": "None",
-			"isGamePad": 0,
-			"isPedals": 0,
-			"iconTemplate": "None",
-			"uICommandButtonList": [],
-			"raceCommandButtonList": [],
-			"raceCommandAxisList": [],
-			"forceFeedbackGain": 1,
-			"steerScale": 1,
-			"steerLock": 900,
-			"dynamicDamping": 1,
-			"steerLinearity": 1,
-			"roadEffects": 0,
-			"minDamper": 0,
-			"damperGain": 1,
-			"antaniGain": 1,
-			"minimumForceFeedback": 0,
-			"brakeGamma": 1,
-			"combinedPedals": 0
-		},
-		{
-			"version": 0,
 			"productName": "Logitech G29 Driving Force Racing Wheel USB",
 			"productId": "3259958381-0-0-00807368867368",
 			"instanceGuid": "{5B02B550-C5B5-11ED-8003-444553540000}",
@@ -410,7 +385,7 @@
 					"axisIndex": 5,
 					"axisCode": "Brake",
 					"minRange": 1,
-					"maxRange": -0.84000003337860107,
+					"maxRange": -0.85000002384185791,
 					"isCombined": false
 				},
 				{
@@ -421,17 +396,42 @@
 					"isCombined": false
 				}
 			],
-			"forceFeedbackGain": 0.80000001192092896,
+			"forceFeedbackGain": 1,
 			"steerScale": 1,
 			"steerLock": 900,
 			"dynamicDamping": 0,
 			"steerLinearity": 1,
-			"roadEffects": 0.30000001192092896,
+			"roadEffects": 0.18000000715255737,
+			"minDamper": 0,
+			"damperGain": 1,
+			"antaniGain": 1,
+			"minimumForceFeedback": 0.05000000074505806,
+			"brakeGamma": 1,
+			"combinedPedals": 0
+		},
+		{
+			"version": 0,
+			"productName": "Maple",
+			"productId": "2367151-0-0-00807368867368",
+			"instanceGuid": "{95DC5810-C0B3-11F0-8001-444553540000}",
+			"steeringWheelModel": "None",
+			"isGamePad": 0,
+			"isPedals": 0,
+			"iconTemplate": "None",
+			"uICommandButtonList": [],
+			"raceCommandButtonList": [],
+			"raceCommandAxisList": [],
+			"forceFeedbackGain": 1,
+			"steerScale": 1,
+			"steerLock": 900,
+			"dynamicDamping": 1,
+			"steerLinearity": 1,
+			"roadEffects": 0,
 			"minDamper": 0,
 			"damperGain": 1,
 			"antaniGain": 1,
 			"minimumForceFeedback": 0,
-			"brakeGamma": 1.0499999523162842,
+			"brakeGamma": 1,
 			"combinedPedals": 0
 		},
 		{
@@ -1267,6 +1267,17 @@
 					"key": "LeftShift",
 					"bShift": false,
 					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "LookBack",
+				"key":
+				{
+					"key": "SpaceBar",
+					"bShift": false,
+					"bCtrl": true,
 					"bAlt": false,
 					"bCmd": false
 				}
