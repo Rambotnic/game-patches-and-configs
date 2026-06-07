@@ -196,6 +196,7 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 - [Signal Lost](https://www.moddb.com/mods/signal-lost)
 - [Sven Co-op](https://store.steampowered.com/app/225840/Sven_Coop/)
 - [USS Darkstar](https://www.runthinkshootlive.com/posts/uss-darkstar/)
+- [Diffusion](https://www.moddb.com/mods/diffusion)
 
 </details>
 
