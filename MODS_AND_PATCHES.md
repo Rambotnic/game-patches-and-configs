@@ -22,6 +22,7 @@
 - [Comfy Map](https://www.overtake.gg/downloads/comfy-map.52623/)
 - [LUT Generator & Wheel Check](https://www.overtake.gg/downloads/lut-generator-for-ac.9740/)
 - [FFB Anti-Clip](https://www.overtake.gg/downloads/ffb-anti-clip.65648/)
+- [RARE (Rules and Race Enhancements)](https://www.overtake.gg/downloads/rare-rules-and-race-enhancements.52534/)
 
 </details>
 
