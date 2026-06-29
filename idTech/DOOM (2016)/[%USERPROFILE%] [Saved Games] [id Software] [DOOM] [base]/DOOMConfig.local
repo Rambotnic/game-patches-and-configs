@@ -1,7 +1,13 @@
 // This file is for local settings only and will not be cloud synchronized
 configVersion 7
-r_shadowsDistanceFadeMultiplier "1"
+r_shadowsDistanceFadeMultiplier "2.5"
 r_renderAPI "1"
 r_mode "19"
 r_physicalPagesAspectRatio "1"
 r_vmtrPhysicalPagesAspectRatio "1"
+r_shadowAtlasWidth "16384"
+vt_pageImageSizeUnique "16384"
+vt_pageImageSizeVmtr "16384"
+r_shadowAtlasTileSize "4096"
+r_shadowAtlasHeight "16384"
+r_shadowMaxStaleFrames "0,0,1,2,2"
