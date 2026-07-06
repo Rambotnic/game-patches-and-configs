@@ -277,6 +277,22 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 
 ---
 
+# Quake 3 Arena
+**Source Port**
+- [Quake3e](https://github.com/ec-/Quake3e)
+
+<details>
+<summary><b>Mods</b></summary>
+
+- [Challenge ProMode Arena](https://www.playmorepromode.com/)
+- [Threewave Compilation Pak1](https://lvlworld.com/review/id:890)
+- [Threewave - q3wpak1](https://lvlworld.com/review/id:2181)
+- [Threewave - q3wpak2](https://lvlworld.com/review/id:2192)
+- [Threewave - q3wpak3](https://lvlworld.com/review/id:2207)
+- [Threewave - q3wpak4](https://lvlworld.com/review/id:2227)
+
+</details>
+
 # Quake 4
 **Patches**
 - [Quake 4 Tweaker](https://community.pcgamingwiki.com/files/file/1009-quake-4-tweaker/)
