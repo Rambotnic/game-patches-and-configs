@@ -97,6 +97,24 @@
 
 ---
 
+# Automobilista 2
+<details>
+<summary><b>Skins</b></summary>
+
+- [F1 2006 Skinpack](https://www.overtake.gg/downloads/f1-2006-skinpack.84740/)
+- [GT World Challenge Europe](https://www.overtake.gg/downloads/img-2026-gt-world-challenge-europe.83667/)
+
+</details>
+
+<details>
+<summary><b>Misc</b></summary>
+
+- [Danielkarts Topspeed Custom FFB File](https://www.overtake.gg/downloads/danielkarts-topspeed-custom-file-1-0.81637/)
+
+</details>
+
+---
+
 # Blood: Fresh Supply
 **Source Port**
 - [NotBlood](https://github.com/clipmove/NotBlood)
