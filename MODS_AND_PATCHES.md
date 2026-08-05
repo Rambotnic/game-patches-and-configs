@@ -316,6 +316,8 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 - [Threewave - q3wpak2](https://lvlworld.com/review/id:2192)
 - [Threewave - q3wpak3](https://lvlworld.com/review/id:2207)
 - [Threewave - q3wpak4](https://lvlworld.com/review/id:2227)
+- [High Quality Quake](https://www.moddb.com/mods/high-quality-quake)
+- [ZTM's Flexible HUD](https://clover.moe/flexible-hud-for-ioq3/)
 
 </details>
 
