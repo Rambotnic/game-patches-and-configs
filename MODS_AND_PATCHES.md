@@ -109,7 +109,13 @@
 <details>
 <summary><b>Skins</b></summary>
 
-- [F1 2006 Skinpack](https://www.overtake.gg/downloads/f1-2006-skinpack.84740/)
+- [F1 1997 Skinpack for Formula V10 Gen 1](https://www.overtake.gg/downloads/f1-1997-skinpack-for-formula-v10-gen-1.80687/)
+- [F1 2002 Skinpack for Formula V10 Gen 2](https://www.overtake.gg/downloads/f1-2002-skinpack-for-formula-v10-gen-2.82280/)
+- [F1 2005 Skinpack for Formula V10 Gen 3](https://www.overtake.gg/downloads/f1-2005-skinpack-for-formula-v10-gen-3.85455/)
+- [F1 2006 Skinpack for Formula V8 Gen 1](https://www.overtake.gg/downloads/f1-2006-skinpack.84740/)
+- [F1 2010 Skinpack for Formula V8 Gen 3](https://www.overtake.gg/downloads/f1-2010-skinpack-for-formula-v8-gen-3.81401/)
+- [F1 2016 Skinpack for Formula Hybrid Gen 1](https://www.overtake.gg/downloads/f1-2016-skinpack-for-formula-hybrid-gen-1.83382/)
+- [F1 2025 Skinpack for Formula Hybrid Gen 3](https://www.overtake.gg/downloads/f1-2025-skinpack.75192/)
 - [GT World Challenge Europe](https://www.overtake.gg/downloads/img-2026-gt-world-challenge-europe.83667/)
 
 </details>
