@@ -93,6 +93,30 @@
 					"powValue": 0,
 					"keyName": "None",
 					"gamepadButtonName": "None",
+					"instantActionCode": "None",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 2,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "None",
+					"extendedActionCode": "None",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 0,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
 					"instantActionCode": "Forward",
 					"extendedActionCode": "None",
 					"extendedTime": 1,
@@ -132,30 +156,6 @@
 					"keyName": "None",
 					"gamepadButtonName": "None",
 					"instantActionCode": "GearUp",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
-				{
-					"buttonIndex": 20,
-					"powIndex": -1,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "DecreaseTC",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
-				{
-					"buttonIndex": 19,
-					"powIndex": -1,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "IncreaseTC",
 					"extendedActionCode": "None",
 					"extendedTime": 1,
 					"pinkieInstanceActionCode": "None",
@@ -270,18 +270,6 @@
 					"pinkieExtendedActionCode": "None"
 				},
 				{
-					"buttonIndex": 6,
-					"powIndex": -1,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "ToggleWiper",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
-				{
 					"buttonIndex": 23,
 					"powIndex": -1,
 					"powValue": 0,
@@ -300,30 +288,6 @@
 					"keyName": "None",
 					"gamepadButtonName": "None",
 					"instantActionCode": "EnableFlashingLights",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
-				{
-					"buttonIndex": -1,
-					"powIndex": 0,
-					"powValue": 0,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "IncreaseEngineMap",
-					"extendedActionCode": "None",
-					"extendedTime": 1,
-					"pinkieInstanceActionCode": "None",
-					"pinkieExtendedActionCode": "None"
-				},
-				{
-					"buttonIndex": -1,
-					"powIndex": 0,
-					"powValue": 18000,
-					"keyName": "None",
-					"gamepadButtonName": "None",
-					"instantActionCode": "DecreaseEngineMap",
 					"extendedActionCode": "None",
 					"extendedTime": 1,
 					"pinkieInstanceActionCode": "None",
@@ -364,6 +328,66 @@
 					"extendedTime": 1,
 					"pinkieInstanceActionCode": "None",
 					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 19,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "IncreaseTC",
+					"extendedActionCode": "IncreaseTCCut",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 20,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "DecreaseTC",
+					"extendedActionCode": "DecreaseTCCut",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "IncreaseEngineMap",
+					"extendedActionCode": "IncreaseABS",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": -1,
+					"powIndex": 0,
+					"powValue": 18000,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "DecreaseEngineMap",
+					"extendedActionCode": "DecreaseABS",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
+				},
+				{
+					"buttonIndex": 6,
+					"powIndex": -1,
+					"powValue": 0,
+					"keyName": "None",
+					"gamepadButtonName": "None",
+					"instantActionCode": "CycleWiper",
+					"extendedActionCode": "EnableRainLights",
+					"extendedTime": 1,
+					"pinkieInstanceActionCode": "None",
+					"pinkieExtendedActionCode": "None"
 				}
 			],
 			"raceCommandAxisList": [
@@ -385,7 +409,7 @@
 					"axisIndex": 5,
 					"axisCode": "Brake",
 					"minRange": 1,
-					"maxRange": -0.85000002384185791,
+					"maxRange": -0.89999997615814209,
 					"isCombined": false
 				},
 				{
@@ -396,91 +420,16 @@
 					"isCombined": false
 				}
 			],
-			"forceFeedbackGain": 1,
+			"forceFeedbackGain": 0.80000001192092896,
 			"steerScale": 1,
 			"steerLock": 900,
-			"dynamicDamping": 0,
+			"dynamicDamping": 0.30000001192092896,
 			"steerLinearity": 1,
-			"roadEffects": 0.18000000715255737,
+			"roadEffects": 0.079999998211860657,
 			"minDamper": 0,
 			"damperGain": 1,
 			"antaniGain": 1,
-			"minimumForceFeedback": 0.05000000074505806,
-			"brakeGamma": 1,
-			"combinedPedals": 0
-		},
-		{
-			"version": 0,
-			"productName": "Maple",
-			"productId": "2367151-0-0-00807368867368",
-			"instanceGuid": "{95DC5810-C0B3-11F0-8001-444553540000}",
-			"steeringWheelModel": "None",
-			"isGamePad": 0,
-			"isPedals": 0,
-			"iconTemplate": "None",
-			"uICommandButtonList": [],
-			"raceCommandButtonList": [],
-			"raceCommandAxisList": [],
-			"forceFeedbackGain": 1,
-			"steerScale": 1,
-			"steerLock": 900,
-			"dynamicDamping": 1,
-			"steerLinearity": 1,
-			"roadEffects": 0,
-			"minDamper": 0,
-			"damperGain": 1,
-			"antaniGain": 1,
-			"minimumForceFeedback": 0,
-			"brakeGamma": 1,
-			"combinedPedals": 0
-		},
-		{
-			"version": 0,
-			"productName": "Controller (XBOX 360 For Windows)",
-			"productId": "301934814-10462-0-00807368867368",
-			"instanceGuid": "{11FF28DE-28DE-0001-0000-504944564944}",
-			"steeringWheelModel": "None",
-			"isGamePad": 0,
-			"isPedals": 0,
-			"iconTemplate": "None",
-			"uICommandButtonList": [],
-			"raceCommandButtonList": [],
-			"raceCommandAxisList": [],
-			"forceFeedbackGain": 1,
-			"steerScale": 1,
-			"steerLock": 900,
-			"dynamicDamping": 1,
-			"steerLinearity": 1,
-			"roadEffects": 0,
-			"minDamper": 0,
-			"damperGain": 1,
-			"antaniGain": 1,
-			"minimumForceFeedback": 0,
-			"brakeGamma": 1,
-			"combinedPedals": 0
-		},
-		{
-			"version": 0,
-			"productName": "Wireless Controller",
-			"productId": "164365644-0-0-00807368867368",
-			"instanceGuid": "{2A9427C0-FD8E-11EE-8001-444553540000}",
-			"steeringWheelModel": "None",
-			"isGamePad": 0,
-			"isPedals": 0,
-			"iconTemplate": "None",
-			"uICommandButtonList": [],
-			"raceCommandButtonList": [],
-			"raceCommandAxisList": [],
-			"forceFeedbackGain": 1,
-			"steerScale": 1,
-			"steerLock": 900,
-			"dynamicDamping": 1,
-			"steerLinearity": 1,
-			"roadEffects": 0,
-			"minDamper": 0,
-			"damperGain": 1,
-			"antaniGain": 1,
-			"minimumForceFeedback": 0,
+			"minimumForceFeedback": 0.059999998658895493,
 			"brakeGamma": 1,
 			"combinedPedals": 0
 		}
@@ -587,28 +536,6 @@
 				}
 			},
 			{
-				"actionType": "GearDown",
-				"key":
-				{
-					"key": "Gamepad_LeftShoulder",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "GearUp",
-				"key":
-				{
-					"key": "Gamepad_RightShoulder",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "LeftDirectionalLight",
 				"key":
 				{
@@ -646,6 +573,28 @@
 				"key":
 				{
 					"key": "Gamepad_Special_Left",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearUp",
+				"key":
+				{
+					"key": "Gamepad_RightShoulder",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "GearDown",
+				"key":
+				{
+					"key": "Gamepad_LeftShoulder",
 					"bShift": false,
 					"bCtrl": false,
 					"bAlt": false,
@@ -1019,28 +968,6 @@
 				}
 			},
 			{
-				"actionType": "DecreaseUserFFB",
-				"key":
-				{
-					"key": "None",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "IncreaseUserFFB",
-				"key":
-				{
-					"key": "None",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "CycleHudMapMode",
 				"key":
 				{
@@ -1064,17 +991,6 @@
 			},
 			{
 				"actionType": "HudPageLast",
-				"key":
-				{
-					"key": "None",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "SetMfdElectronics",
 				"key":
 				{
 					"key": "None",
@@ -1140,17 +1056,6 @@
 				}
 			},
 			{
-				"actionType": "SetMfdPitstop",
-				"key":
-				{
-					"key": "None",
-					"bShift": false,
-					"bCtrl": false,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "CycleHudMfd",
 				"key":
 				{
@@ -1184,34 +1089,23 @@
 				}
 			},
 			{
-				"actionType": "IncreaseABS",
-				"key":
-				{
-					"key": "S",
-					"bShift": false,
-					"bCtrl": true,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
-				"actionType": "DecreaseABS",
-				"key":
-				{
-					"key": "A",
-					"bShift": false,
-					"bCtrl": true,
-					"bAlt": false,
-					"bCmd": false
-				}
-			},
-			{
 				"actionType": "EnableRainLights",
 				"key":
 				{
 					"key": "R",
 					"bShift": false,
 					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "LookBack",
+				"key":
+				{
+					"key": "SpaceBar",
+					"bShift": false,
+					"bCtrl": true,
 					"bAlt": false,
 					"bCmd": false
 				}
@@ -1272,12 +1166,67 @@
 				}
 			},
 			{
-				"actionType": "LookBack",
+				"actionType": "IncreaseABS",
 				"key":
 				{
-					"key": "SpaceBar",
+					"key": "Period",
 					"bShift": false,
-					"bCtrl": true,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseABS",
+				"key":
+				{
+					"key": "Comma",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "IncreaseUserFFB",
+				"key":
+				{
+					"key": "LeftBracket",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "DecreaseUserFFB",
+				"key":
+				{
+					"key": "RightBracket",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "SetMfdElectronics",
+				"key":
+				{
+					"key": "NumPadZero",
+					"bShift": false,
+					"bCtrl": false,
+					"bAlt": false,
+					"bCmd": false
+				}
+			},
+			{
+				"actionType": "SetMfdPitstop",
+				"key":
+				{
+					"key": "None",
+					"bShift": false,
+					"bCtrl": false,
 					"bAlt": false,
 					"bCmd": false
 				}
