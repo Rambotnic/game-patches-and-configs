@@ -32,7 +32,7 @@ Have a look at [this file](./MODS_AND_PATCHES.md) for a full list of mods and ot
 To use these: right click the game > Properties > Launch Options
 
 <details>
-<summary><b>Assetto Corsa Competizione</b></summary>
+<summary><h3>Assetto Corsa Competizione</h3></summary>
 
 **Compatibility Tool:** Proton-CachyOS Latest
 ```
@@ -42,7 +42,7 @@ __VK_LAYER_NV_optimus=NVIDIA_only __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRA
 </details>
 
 <details>
-<summary><b>Automobilista 2</b></summary>
+<summary><h3>Automobilista 2</h3></summary>
 
 **Compatibility Tool:** Proton-CachyOS Latest
 ```
@@ -52,7 +52,7 @@ __VK_LAYER_NV_optimus=NVIDIA_only __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRA
 </details>
 
 <details>
-<summary><b>Half-Life (and general GoldSrc Engine games)</b></summary>
+<summary><h3>Half-Life (and general GoldSrc Engine games)</h3></summary>
 
 ```
 -novid -noforcemaccel -noforcemparms -noforcemspd -nojoy -width [MONITOR WIDTH] -height [MONITOR HEIGHT] -nomsaa -nofbo +gl_vsync 0 +fps_max [MONITOR REFRESH RATE] +fps_override 1 +rate 20000 +cl_cmdrate 106 +cl_updaterate 101
@@ -66,7 +66,7 @@ If playing Opposing Force, make sure `fps_max` is equal or lower than 120. Anyth
 </details>
 
 <details>
-<summary><b>Half-Life 2 (and general Source Engine games)</b></summary>
+<summary><h3>Half-Life 2 (and general Source Engine games)</h3></summary>
 
 ```
 -novid -nojoy -w [MONITOR WIDTH] -h [MONITOR HEIGHT] +fps_max [MONITOR REFRESH RATE] -high +mat_motion_blur_percent_of_screen_max 0 +mat_postprocess_enable 0
