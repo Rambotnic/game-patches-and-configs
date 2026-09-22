@@ -1,4 +1,8 @@
 # Game Patches, Fixes and Configs
+
+> [!NOTE]
+> The configuration files in this branch are meant to be used with Windows. For Linux, check the [master](https://github.com/Rambotnic/game-patches-and-configs/tree/master) branch.
+
 This personal repository is meant to store all configs and patches for games I really love and am still playing or would like to return to at some point.
 
 These settings were tested on PC:
