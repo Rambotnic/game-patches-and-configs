@@ -1,4 +1,0 @@
-Windows Registry Editor Version 5.00 
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\AppCompatFlags]
-"{b1899c0f-fdfd-42d0-b489-c254bdbb539d}"=dword:00000001

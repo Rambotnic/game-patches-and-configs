@@ -1,6 +1,10 @@
 # Alice: Madness Returns
-**Patches**
+<details>
+<summary><b>Patches</b></summary>
+
 - [MadnessPatch](https://github.com/Wemino/MadnessPatch)
+
+</details>
 
 ---
 
@@ -130,30 +134,50 @@
 ---
 
 # Blood: Fresh Supply
-**Source Port**
+<details>
+<summary><b>Source Port</b></summary>
+
 - [NotBlood](https://github.com/clipmove/NotBlood)
 
-**Mods**
+</details>
+
+<details>
+<summary><b>Mods</b></summary>
+
 - [Death Wish](https://www.moddb.com/mods/death-wish-for-blood)
 - [Voxel Pack](https://github.com/fgsfds/Blood-Voxel-Pack)
+
+</details>
 
 ---
 
 # Classic Marathon 2
-**Mods**
+<details>
+<summary><b>Mods</b></summary>
+
 - [Feel The Noise - Fan Soundtrack by Talashar](https://steamcommunity.com/sharedfiles/filedetails/?id=3332007811)
+
+</details>
 
 ---
 
 # Classic Marathon Infinity
-**Mods**
+<details>
+<summary><b>Mods</b></summary>
+
 - [Strange Aeons - Fan Soundtrack by Talashar](https://steamcommunity.com/sharedfiles/filedetails/?id=3310109344)
+
+</details>
 
 ---
 
 # Counter-Strike
-**Bots**
+<details>
+<summary><b>Bots</b></summary>
+
 - [YaPB - Yet another PODBot](https://github.com/yapb/yapb/)
+
+</details>
 
 <details>
 <summary><b>Mods</b></summary>
