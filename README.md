@@ -34,6 +34,7 @@ To use these: right click the game > Properties > Launch Options
 <details>
 <summary><b>Assetto Corsa Competizione</b></summary>
 
+**Compatibility Tool:** Proton-CachyOS Latest
 ```
 __VK_LAYER_NV_optimus=NVIDIA_only __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia PROTON_NO_WM_DECORATION=1 PROTON_ENABLE_WAYLAND=1 PROTON_USE_NTSYNC=1 gamemoderun %command%
 ```
@@ -43,6 +44,7 @@ __VK_LAYER_NV_optimus=NVIDIA_only __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRA
 <details>
 <summary><b>Automobilista 2</b></summary>
 
+**Compatibility Tool:** Proton-CachyOS Latest
 ```
 __VK_LAYER_NV_optimus=NVIDIA_only __NV_PRIME_RENDER_OFFLOAD=1 __GLX_VENDOR_LIBRARY_NAME=nvidia PROTON_NO_WM_DECORATION=1 PROTON_ENABLE_WAYLAND=1 PROTON_USE_NTSYNC=1 gamemoderun %command%
 ```
