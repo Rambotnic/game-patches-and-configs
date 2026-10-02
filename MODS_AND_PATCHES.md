@@ -40,6 +40,7 @@
 - [RSS GT Legends Championship Pack](https://store.racesimstudio.com/p/gt-pack/)
 - [RSS GT-M Championship - Phase 1](https://store.racesimstudio.com/p/rss-gt-m/)
 - [RSS GT-M Championship - Phase 2](https://store.racesimstudio.com/p/gt-m-championship-phase-2/)
+- [RSS GT-M Championship - Phase 3](https://store.racesimstudio.com/p/gt-m-championship-phase-3/)
 - [RSS Protech P91 Hybrid Evo](https://store.racesimstudio.com/p/p91-evo/)
 - [RSS MP-H Pack 1](https://store.racesimstudio.com/p/mph-phase-1-pack/)
 - [URD Bayro 4 GT3](https://shop.unitedracingdesign.com/p/ac-bayro-4-gt3/)
