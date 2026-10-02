@@ -101,6 +101,7 @@
 - [Formula RSS 2013 V8 Community Skin Pack](https://www.overtake.gg/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
 - [Nyanborghini Purracan Skin](https://www.overtake.gg/downloads/nyanborghini-purracan.28258/)
 - [shadow118's F1 Liveries and Resources](https://www.overtake.gg/members/shadow118.231192/#resources)
+- [RasmusP's LUTs for G27/29 and DFGT](https://www.overtake.gg/downloads/rasmusps-luts-for-g27-29-and-dfgt.16799/)
 
 </details>
 
