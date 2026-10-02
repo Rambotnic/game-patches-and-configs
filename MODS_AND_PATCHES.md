@@ -45,10 +45,10 @@
 - [URD Bayro 4 GT3](https://shop.unitedracingdesign.com/p/ac-bayro-4-gt3/)
 - [VRC Prototype H Pack One](https://www.virtual-racing-cars.com/p/ac-vrc-prototype-h-pack-one/)
 - [VRC Prototype H Pack Two](https://www.virtual-racing-cars.com/p/ac-vrc-prototype-h-pack-two/)
-- [VRC Ultimate Formula 2024](https://www.virtual-racing-cars.com/p/ac-vrc-ultimate-formula-2024/)
 - [VRC Formula Lithium 2023](https://www.virtual-racing-cars.com/p/ac-formula-lithium-2023/)
 - [VRC Formula Alpha 2007 Ferrenzo F07](https://www.virtual-racing-cars.com/p/formula-alpha-2007-ferrenzo-f07/)
 - [VRC Formula Alpha 2007 McLenna MC22](https://www.virtual-racing-cars.com/p/formula-alpha-2007-mclenna-mc22/)
+- [VRC Formula Alpha 2025](https://www.virtual-racing-cars.com/p/ac-formula-alpha-2025/)
 - [VRC Formula Beta 2008](https://www.virtual-racing-cars.com/p/ac-formula-beta-2008/)
 - [VRC Formula Beta 2024](https://www.virtual-racing-cars.com/p/ac-formula-beta-2024/)
 
