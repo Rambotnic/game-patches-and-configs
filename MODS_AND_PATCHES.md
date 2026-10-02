@@ -108,6 +108,13 @@
 
 # Automobilista 2
 <details>
+<summary><b>Apps</b></summary>
+
+- [Zero to Apex](https://www.overtake.gg/downloads/career-mode-fully-automated-no-race-setup-needed-zero-to-apex.85567/)
+
+</details>
+
+<details>
 <summary><b>Skins</b></summary>
 
 - [F1 1997 Skinpack for Formula V10 Gen 1](https://www.overtake.gg/downloads/f1-1997-skinpack-for-formula-v10-gen-1.80687/)
