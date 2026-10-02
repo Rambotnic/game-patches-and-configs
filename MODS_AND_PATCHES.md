@@ -37,6 +37,7 @@
 - [Formula RSS 2013 V8](https://racesimstudio.sellfy.store/p/formula-rss-2013/)
 - [Formula RSS 3 2026 V6](https://store.racesimstudio.com/p/formula-rss-3-2026-v6/)
 - [Formula RSS 4 2024](https://store.racesimstudio.com/p/rss-4-2024/)
+- [Formula 1990 Pack](https://store.racesimstudio.com/p/f-90-pack/)
 - [RSS GT Legends Championship Pack](https://store.racesimstudio.com/p/gt-pack/)
 - [RSS GT-M Championship - Phase 1](https://store.racesimstudio.com/p/rss-gt-m/)
 - [RSS GT-M Championship - Phase 2](https://store.racesimstudio.com/p/gt-m-championship-phase-2/)
