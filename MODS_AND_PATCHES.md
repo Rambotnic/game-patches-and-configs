@@ -93,7 +93,6 @@
 - [C13 AEGIS PP Filter](https://www.overtake.gg/downloads/c13-aegis-post-processing-filter.59979/)
 - [Natural Mod PP Filter](https://www.overtake.gg/downloads/natural-mod-pp-filter.4551/)
 - [Pure](https://www.patreon.com/peterboese)
-- [New AI + Track Fixing mega pack](https://www.overtake.gg/downloads/new-ai-fixing-mega-pack-vol-1.62150/updates#resource-update-110879)
 - [Fonsecker Sound Pack Part 1](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-1.7226/)
 - [Fonsecker Sound Pack Part 2](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-2.10230/)
 - [Fonsecker Sound Pack Part 3](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-3.12240/)
