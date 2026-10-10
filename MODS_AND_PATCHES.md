@@ -98,6 +98,7 @@
 - [Fonsecker Sound Pack Part 3](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-3.12240/)
 - [Fonsecker Sound Pack Part 4 (Porsche Pack)](https://www.overtake.gg/downloads/fonsecker-sound-pack-part-4-porsche-pack.13468/)
 - [ACC Curbs and Surface sounds for AC](https://www.overtake.gg/downloads/acc-curbs-and-surface-sounds-for-ac.61378/)
+- [ACC Style Pit Indicator](https://www.overtake.gg/downloads/acc-style-pit-indicator-for-assetto-corsa.76787/)
 - [Formula RSS 2013 V8 Community Skin Pack](https://www.overtake.gg/downloads/formula-rss-2013-v8-f1-2013-community-skinpack.48911/)
 - [Nyanborghini Purracan Skin](https://www.overtake.gg/downloads/nyanborghini-purracan.28258/)
 - [shadow118's F1 Liveries and Resources](https://www.overtake.gg/members/shadow118.231192/#resources)
