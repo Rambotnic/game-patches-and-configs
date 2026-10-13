@@ -8,6 +8,16 @@
 
 ---
 
+# Amnesia: The Dark Descent
+<details>
+<summary><b>Mods</b></summary>
+
+- [Sclerosis](https://createam.itch.io/sclerosis-an-amnesia-vr-remake)
+
+</details>
+
+---
+
 # Assetto Corsa
 <details>
 <summary><b>Apps</b></summary>
