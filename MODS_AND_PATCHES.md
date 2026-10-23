@@ -1,4 +1,8 @@
-# Alice: Madness Returns
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/19680/a9dc16a5a8293cea1c1d934bdbc08721708b1399.jpg" alt="Alice: Madness Returns Icon" height="30" valign="middle" />
+    Alice: Madness Returns
+</h1>
+
 <details>
 <summary><b>Patches</b></summary>
 
@@ -6,9 +10,13 @@
 
 </details>
 
----
 
-# Amnesia: The Dark Descent
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/57300/2c08de657a8b273eeb55bb5bf674605ca023e381.jpg" alt="Amnesia: The Dark Descent Icon" height="30" valign="middle" />
+    Amnesia: The Dark Descent
+</h1>
+
 <details>
 <summary><b>Mods</b></summary>
 
@@ -16,9 +24,13 @@
 
 </details>
 
----
 
-# Assetto Corsa
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/244210/c35922c480816b55f18b2843c6d838ccbc8ff825.jpg" alt="Assetto Corsa Icon" height="30" valign="middle" />
+    Assetto Corsa
+</h1>
+
 <details>
 <summary><b>Apps</b></summary>
 
@@ -116,9 +128,13 @@
 
 </details>
 
----
 
-# Automobilista 2
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1066890/c3099dee505501dc6ca8800ff9042495729d2903.jpg" alt="Automobilista 2 Icon" height="30" valign="middle" />
+    Automobilista 2
+</h1>
+
 <details>
 <summary><b>Apps</b></summary>
 
@@ -147,9 +163,13 @@
 
 </details>
 
----
 
-# Blood: Fresh Supply
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1010750/0bef18eecebed30f5adf1a40adb5465de2703990.jpg" alt="Blood: Fresh Supply Icon" height="30" valign="middle" />
+    Blood: Fresh Supply
+</h1>
+
 <details>
 <summary><b>Source Port</b></summary>
 
@@ -165,9 +185,13 @@
 
 </details>
 
----
 
-# Classic Marathon 2
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2398490/912c72275672eece179f1cc663743f2e130dd2ff.jpg" alt="Classic Marathon 2 Icon" height="30" valign="middle" />
+    Classic Marathon 2
+</h1>
+
 <details>
 <summary><b>Mods</b></summary>
 
@@ -175,9 +199,13 @@
 
 </details>
 
----
 
-# Classic Marathon Infinity
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2398520/d9f273aece20d40999846982f5e543ad3a6d532f.jpg" alt="Classic Marathon Infinity Icon" height="30" valign="middle" />
+    Classic Marathon Infinity
+</h1>
+
 <details>
 <summary><b>Mods</b></summary>
 
@@ -185,9 +213,13 @@
 
 </details>
 
----
 
-# Counter-Strike
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/10/6b0312cda02f5f777efa2f3318c307ff9acafbb5.jpg" alt="Counter-Strike Icon" height="30" valign="middle" />
+    Counter-Strike
+</h1>
+
 <details>
 <summary><b>Bots</b></summary>
 
@@ -204,52 +236,112 @@
 
 </details>
 
----
 
-# Daikatana
-**Patches**
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/242980/a4e97d9e05bfe1ad161aeda934695a3cb313b9e4.jpg" alt="Daikatana Icon" height="30" valign="middle" />
+    Daikatana
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [Unofficial 1.3 Patch](https://github.com/maraakate/daikatana/)
 
----
+</details>
 
-# Day of Defeat
-**Bots**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/30/aadc0ce51ff6ba2042d633f8ec033b0de62091d0.jpg" alt="Day of Defeat Icon" height="30" valign="middle" />
+    Day of Defeat
+</h1>
+
+<details>
+<summary><b>Bots</b></summary>
+
 - [Sturmbot](https://sturmbot.org/)
 
----
+</details>
 
-# Deathmatch Classic
-**Bots**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/40/c525f76c8bc7353db4fd74b128c4ae2028426c2a.jpg" alt="Deathmatch Classic Icon" height="30" valign="middle" />
+    Deathmatch Classic
+</h1>
+
+<details>
+<summary><b>Bots</b></summary>
+
 - [Parabot](https://github.com/nekonomicon/Parabot/)
 
----
+</details>
 
-# DOOM and DOOM II
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2280/3e5e70b1e0c4869dc3276b10b830f6ce9d341cf9.jpg" alt="DOOM + DOOM II Icon" height="30" valign="middle" />
+    DOOM + DOOM II
+</h1>
+
 I have a separate repository just for this: [doomlauncher-mod-pack](https://github.com/TheRambotnic/doomlauncher-mod-pack)
 
----
 
-# DOOM 3
-**Source Port**
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/208200/00b2e4a81c7305be9203e17010d3a5ab51f53737.jpg" alt="DOOM 3 Icon" height="30" valign="middle" />
+    DOOM 3
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [dhewm 3](https://github.com/dhewm/dhewm3)
 
----
+</details>
 
-# Duke Nukem 3D
-**Source Port**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/359850/6e9cb4179b64a39e440694c3e3add0280c5d076c.jpg" alt="Duke Nukem 3D Icon" height="30" valign="middle" />
+    Duke Nukem 3D
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [EDuke32](https://www.eduke32.com/)
 
----
+</details>
 
-# F.E.A.R. (incl. Extraction Point and Perseus Mandate)
-**Patches**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/21090/71f118282be5aaa34eb82506593130ecfcc6a90b.jpg" alt="F.E.A.R. Icon" height="30" valign="middle" />
+    F.E.A.R.
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [EchoPatch](https://github.com/Wemino/EchoPatch)
 
----
+</details>
 
-# Half-Life
-**Source Port**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/70/95be6d131fc61f145797317ca437c9765f24b41c.jpg" alt="Half-Life Icon" height="30" valign="middle" />
+    Half-Life
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [Xash 3D FWGS](https://github.com/FWGS/xash3d-fwgs)
+
+</details>
 
 <details>
 <summary><b>Mods</b></summary>
@@ -273,17 +365,29 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 
 </details>
 
-**Bots**
+<details>
+<summary><b>Bots</b></summary>
+
 - [Parabot](https://github.com/nekonomicon/Parabot/)
 
 > [!NOTE]
 > When using Parabot, the scripted sequences in singleplayer will break. Before installing it, make sure to do a backup of your `liblist.gam` file inside of `<Your Steam Directory/steamapps/common/Half-Life/valve`. To uninstall Parabot, simply replace the `liblist.gam` file with the one you just backed up.
 
----
+</details>
 
-# Half-Life 2
-**Patches**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/220/fcfb366051782b8ebf2aa297f3b746395858cb62.jpg" alt="Half-Life 2 Icon" height="30" valign="middle" />
+    Half-Life 2
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [QoL Improvements](https://drive.google.com/drive/u/0/folders/1QIhGnVIUntIBv5rkHvFDgDTcuYnwyowK)
+
+</details>
 
 <details>
 <summary><b>Mods</b></summary>
@@ -299,19 +403,38 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 
 </details>
 
----
 
-# Painkiller: Black Edition
-**Patches**
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/39530/3e8830b9553bc7b12fb3762eec097b44551988b2.jpg" alt="Painkiller: Black Edition Icon" height="30" valign="middle" />
+    Painkiller: Black Edition
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [Ultimate Community Patch RC3](https://steamcommunity.com/sharedfiles/filedetails/?id=1789104850)
 
 In case the above link doesn't work, try [this one](https://drive.google.com/drive/u/0/folders/1cGoS4fiQLHw3v-EVVFcIoEDOb27SQgu6)
 
----
+</details>
 
-# Quake
-**Source Port**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2310/e5bdf8dc7759c573fe525d45b69011f6a173a984.jpg" alt="Quake Icon" height="30" valign="middle" />
+    Quake
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [Ironwail](https://github.com/andrei-drexler/ironwail)
+
+> [!NOTE]
+> To make music work with Ironwail, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside.
+
+</details>
 
 <details>
 <summary><b>Mods</b></summary>
@@ -327,31 +450,49 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 
 </details>
 
-**Bots**
+<details>
+<summary><b>Bots</b></summary>
+
 - [Rogue Bot](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/rbot.zip) <span style="color: red;">*</span>
 
 <span style="color: red;">*</span> Quake Bot Archive: https://github.com/Jason2Brownlee/QuakeBotArchive
 
-> [!NOTE]
-> To make music work with Ironwail, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside.
+</details>
 
----
 
-# Quake 2
-**Source Port**
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2320/f4f8eda991901eae74562c30ba6e68715e3d6dcf.jpg" alt="Quake II Icon" height="30" valign="middle" />
+    Quake II
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [Yamagi Quake II](https://www.yamagi.org/quake2/)
 
-**Mods**
+</details>
+
+<details>
+<summary><b>Mods</b></summary>
+
 - [AQtion](https://store.steampowered.com/app/1978800/AQtion/)
 
-**Bots**
-- [Gladiator Bot](https://mrelusive.com/oldprojects/gladiator/download.shtml.htm)
+</details>
 
----
 
-# Quake 3 Arena
-**Source Port**
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2200/bf6cde8c939be8c50d1efcabf4cdd9b44c5c11c7.jpg" alt="Quake III Arena Icon" height="30" valign="middle" />
+    Quake III Arena
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [Quake3e](https://github.com/ec-/Quake3e)
+
+</details>
 
 <details>
 <summary><b>Mods</b></summary>
@@ -367,56 +508,130 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 
 </details>
 
-# Quake 4
-**Patches**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/2210/ecbd9d78b949ba6875c4adfc77ca4aab343ec858.jpg" alt="Quake 4 Icon" height="30" valign="middle" />
+    Quake 4
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [Quake 4 Tweaker](https://community.pcgamingwiki.com/files/file/1009-quake-4-tweaker/)
 
----
+</details>
 
-# Return to Castle Wolfenstein
-**Source Port**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/9010/5a588b9863f6e2a8e6dfb8a9c5217e7e90b5406d.jpg" alt="Return to Castle Wolfenstein Icon" height="30" valign="middle" />
+    Return to Castle Wolfenstein
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [iortcw](https://github.com/iortcw/iortcw)
 
-**Mods**
+</details>
+
+<details>
+<summary><b>Mods</b></summary>
+
 - [RealRTCW](https://store.steampowered.com/app/1379630/RealRTCW/)
 
----
+</details>
 
-# Shadow Warrior Classic
-**Source Port**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/225160/782389ab2535d0bf97f1b00ae772640a9ae09b00.jpg" alt="Shadow Warrior Classic Redux Icon" height="30" valign="middle" />
+    Shadow Warrior Classic Redux
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [Raze](https://raze.zdoom.org/about)
 
----
+</details>
 
-# SiN Gold
-**Source Port**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1313/d046d5d3609d451a8d788790c55790dc5977516b.jpg" alt="SiN Gold Icon" height="30" valign="middle" />
+    SiN Gold
+</h1>
+
+<details>
+<summary><b>Source Port</b></summary>
+
 - [Dominatrix](https://github.com/rohit-n/dominatrix)
 
----
+</details>
 
-# Team Fortress Classic
-**Bots**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/20/38ea7ebe3c1abbbbf4eabdbef174c41a972102b9.jpg" alt="Team Fortress Classic Icon" height="30" valign="middle" />
+    Team Fortress Classic
+</h1>
+
+<details>
+<summary><b>Bots</b></summary>
+
 - [FoxBot](https://github.com/APGRoboCop/foxbot)
 
----
+</details>
 
-# Unreal Gold
-**Patches**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/13250/ea4f234ffce6f7c645ccad169c1b6250f3c9cc6c.jpg" alt="Unreal Gold Icon" height="30" valign="middle" />
+    Unreal Gold
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [OldUnreal 227 patch](https://www.oldunreal.com/downloads/unreal/)
 
-**Mods**
+</details>
+
+<details>
+<summary><b>Mods</b></summary>
+
 - [The One](https://www.oldunreal.com/phpBB3/viewtopic.php?p=101445#p101445)
 
----
+</details>
 
-# Unreal Tournament
-**Patches**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/13240/a0e90c4ba9ba0128619d88e799108d5c2d5f0320.jpg" alt="Unreal Tournament Icon" height="30" valign="middle" />
+    Unreal Tournament
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [OldUnreal Patch](https://github.com/OldUnreal/UnrealTournamentPatches)
 - [Widescreen support](https://github.com/alexstrout/foxWSFix-UT99)
 - [Direct3D 10 renderer](http://kentie.net/article/d3d10drv/)
 
----
+</details>
 
-# Unreal Tournament 2004
-**Patches**
+
+
+<h1>
+    <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/13230/db3782214c4285c254f632b0e803ed341c250c9d.jpg" alt="Unreal Tournament 2004 Icon" height="30" valign="middle" />
+    Unreal Tournament 2004
+</h1>
+
+<details>
+<summary><b>Patches</b></summary>
+
 - [OldUnreal Patch](https://github.com/OldUnreal/UT2004Patches)
+
+</details>
