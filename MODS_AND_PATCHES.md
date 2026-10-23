@@ -370,10 +370,10 @@ I have a separate repository just for this: [doomlauncher-mod-pack](https://gith
 
 - [Parabot](https://github.com/nekonomicon/Parabot/)
 
+</details>
+
 > [!NOTE]
 > When using Parabot, the scripted sequences in singleplayer will break. Before installing it, make sure to do a backup of your `liblist.gam` file inside of `<Your Steam Directory/steamapps/common/Half-Life/valve`. To uninstall Parabot, simply replace the `liblist.gam` file with the one you just backed up.
-
-</details>
 
 
 
@@ -431,9 +431,6 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 
 - [Ironwail](https://github.com/andrei-drexler/ironwail)
 
-> [!NOTE]
-> To make music work with Ironwail, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside.
-
 </details>
 
 <details>
@@ -458,6 +455,9 @@ In case the above link doesn't work, try [this one](https://drive.google.com/dri
 <span style="color: red;">*</span> Quake Bot Archive: https://github.com/Jason2Brownlee/QuakeBotArchive
 
 </details>
+
+> [!NOTE]
+> To make music work with Ironwail, simply go into the game's/mod's folder and create a new folder named "music". Place all .ogg files inside.
 
 
 
