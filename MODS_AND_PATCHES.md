@@ -130,7 +130,7 @@
 <summary><b>Skins</b></summary>
 
 - [F1 1997 Skinpack for Formula V10 Gen 1](https://www.overtake.gg/downloads/f1-1997-skinpack-for-formula-v10-gen-1.80687/)
-- [F1 2002 Skinpack for Formula V10 Gen 2](https://www.overtake.gg/downloads/f1-2002-skinpack-for-formula-v10-gen-2.82280/)
+- [F1 2001 Skinpack for Formula V10 Gen 2](https://www.overtake.gg/downloads/f1-2001-skinpack-for-formula-v10-gen-2.77665/)
 - [F1 2005 Skinpack for Formula V10 Gen 3](https://www.overtake.gg/downloads/f1-2005-skinpack-for-formula-v10-gen-3.85455/)
 - [F1 2006 Skinpack for Formula V8 Gen 1](https://www.overtake.gg/downloads/f1-2006-skinpack.84740/)
 - [F1 2010 Skinpack for Formula V8 Gen 3](https://www.overtake.gg/downloads/f1-2010-skinpack-for-formula-v8-gen-3.81401/)
